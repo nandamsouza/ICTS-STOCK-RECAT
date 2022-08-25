@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(234, 246, 250);
+}
+#div-upload{
+    margin: auto;
+    max-width: 55%;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgba(119, 187, 247, 0.169);
+    border-color: rgba(113, 182, 225, 0.567);
+    border-style: dashed;
+}
+#div-upload:hover{
+    cursor: pointer;
+    background-color: rgba(113, 182, 225, 0.224); 
+}
+.nav-link:hover{
+    color: red;
+    cursor: pointer;
+}
